@@ -1,0 +1,7 @@
+@use './assets/styles/base/reset';
+
+$main_bg: rgb(155, 181, 222);
+
+body {
+    background-color: $main_bg;
+}
